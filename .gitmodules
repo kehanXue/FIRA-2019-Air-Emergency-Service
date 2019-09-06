@@ -1,0 +1,18 @@
+[submodule "src/fira_esi"]
+	path = src/fira_esi
+	url = git@github.com:kehanXue/fira_esi.git
+[submodule "src/zed-ros-wrapper"]
+	path = src/zed-ros-wrapper
+	url = git@github.com:kehanXue/zed-ros-wrapper.git
+[submodule "src/px4_indoor_setup"]
+	path = src/px4_indoor_setup
+	url = git@github.com:kehanXue/px4_indoor_setup.git
+[submodule "src/MG995_key"]
+	path = src/MG995_key
+	url = git@github.com:WeiGuo12138/MG995_key.git
+[submodule "src/px4_modules_test"]
+	path = src/px4_modules_test
+	url = git@github.com:kehanXue/px4_modules_test.git
+[submodule "src/plot_path"]
+	path = src/plot_path
+	url = git@github.com:kehanXue/plot_path.git
